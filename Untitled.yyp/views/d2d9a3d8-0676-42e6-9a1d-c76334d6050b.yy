@@ -16,7 +16,11 @@
         "dfa540f4-20ab-4a79-ac13-9f148a9b0efb",
         "9a1624cd-b505-4255-bf8e-35447ab94fac",
         "8a762480-c6b0-4439-b270-febb5ef5b11d",
-        "dc895b48-5e10-4bf7-b435-c073f1381a1c"
+        "dc895b48-5e10-4bf7-b435-c073f1381a1c",
+        "90c57fda-ecfb-4803-99d3-ebfdef48eeb6",
+        "f0713455-9e01-4d9b-8907-4cfff93eb1c8",
+        "076f9e36-77dd-41b7-ba84-a476fbea70eb",
+        "f322b3d7-c5a2-4693-a5a1-fe04b84e1482"
     ],
     "filterType": "GMSprite",
     "folderName": "units",

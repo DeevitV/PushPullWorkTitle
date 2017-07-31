@@ -1,5 +1,12 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
+/// @DnDHash : 7A7720AC
+/// @DnDArgument : "expr" "2"
+/// @DnDArgument : "var" "enemyDistance"
+enemyDistance = 2;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
 /// @DnDHash : 3594C137
 /// @DnDArgument : "expr" "5"
 /// @DnDArgument : "var" "enemyHP"

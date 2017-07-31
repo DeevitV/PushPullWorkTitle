@@ -1,0 +1,65 @@
+Converting GML script : ${project_dir}/scripts/geon_effect_burst/geon_effect_burst.gml
+Converted description : /// @description  geon_effect_burst(effect_ind, x, y);/// @function  geon_effect_burst
+/// @param effect_ind
+/// @param  x
+/// @param  y
+
+Converting GML script : ${project_dir}/scripts/geon_effect_is_streamed/geon_effect_is_streamed.gml
+Converted description : /// @description  geon_effect_is_streamed(effect_ind);/// @function  geon_effect_is_streamed
+/// @param effect_ind
+
+Converting GML script : ${project_dir}/scripts/geon_effect_delete/geon_effect_delete.gml
+Converted description : /// @description  geon_effect_delete(effect_ind, clear_pt);/// @function  geon_effect_delete
+/// @param effect_ind
+/// @param  clear_pt
+
+Converting GML script : ${project_dir}/scripts/geon_system_init/geon_system_init.gml
+Converted description : /// @description  geon_system_init(ps);/// @function  geon_system_init
+/// @param ps
+
+Converting GML script : ${project_dir}/scripts/geon_system_destroy/geon_system_destroy.gml
+Converted description : /// @description  geon_system_destroy()/// @function  geon_system_destroy
+
+Converting GML script : ${project_dir}/scripts/geon_effect_read/geon_effect_read.gml
+Converted description : /// @description  geon_effect_read(fname, ps);/// @function  geon_effect_read
+/// @param fname
+/// @param  ps
+
+Converting GML script : ${project_dir}/scripts/geon_string_parse/geon_string_parse.gml
+Converted description : /// @description  geon_string_parse(string, pos);/// @function  geon_string_parse
+/// @param string
+/// @param  pos
+
+Converting GML script : ${project_dir}/scripts/geon_effect_init/geon_effect_init.gml
+Converted description : /// @description  geon_effect_init(effect_system_map, effect_map, effect_index, ps);/// @function  geon_effect_init
+/// @param effect_system_map
+/// @param  effect_map
+/// @param  effect_index
+/// @param  ps
+
+Converting GML script : ${project_dir}/scripts/geon_effect_id/geon_effect_id.gml
+Converted description : /// @description  geon_effect_id(fname);/// @function  geon_effect_id
+/// @param fname
+
+Converting GML script : ${project_dir}/scripts/geon_effect_add_to_list/geon_effect_add_to_list.gml
+Converted description : /// @description  geon_effect_add_to_list(effect_map);/// @function  geon_effect_add_to_list
+/// @param effect_map
+
+Converting GML script : ${project_dir}/scripts/sin_shift/sin_shift.gml
+Converted description : /// @description sin_shift(amplitude, period, phase, half);/// @function sin_shift
+/// @param amplitude
+/// @param  period
+/// @param  phase
+/// @param  half
+
+Converting GML script : ${project_dir}/scripts/geon_effect_add/geon_effect_add.gml
+Converted description : /// @description  geon_effect_add(fname, ps);/// @function  geon_effect_add
+/// @param fname
+/// @param  ps
+
+Converting GML script : ${project_dir}/scripts/geon_effect_stream/geon_effect_stream.gml
+Converted description : /// @description  geon_effect_stream(effect_ind, x, y, enable);/// @function  geon_effect_stream
+/// @param effect_ind
+/// @param  x
+/// @param  y
+/// @param  enable
